@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/shillbie/register/thrift"
+	"github.com/getlove555/register/thrift"
 )
 
 type AuthErrorCode int64
