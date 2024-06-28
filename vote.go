@@ -1,7 +1,7 @@
 package goline
 
 import (
-	"github.com/shillbie/register/LineThrift"
+	"github.com/getlove555/register/LineThrift"
 
 	"github.com/valyala/fasthttp"
 )
