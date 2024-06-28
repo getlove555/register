@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/shillbie/register/LineThrift"
-	"github.com/shillbie/register/helper"
-	"github.com/shillbie/register/thrift"
+	"github.com/getlove555/register/LineThrift"
+	"github.com/getlove555/register/helper"
+	"github.com/getlove555/register/thrift"
 
 	"github.com/ericlagergren/siv"
 	"github.com/google/uuid"
