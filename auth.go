@@ -3,7 +3,7 @@ package goline
 import (
 	"fmt"
 
-	"github.com/shillbie/register/LineThrift"
+	"github.com/getlove555/register/LineThrift"
 
 	//"time"
 	"encoding/base64"
