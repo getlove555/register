@@ -3,7 +3,7 @@ package goline
 import (
 	"context"
 
-	"github.com/shillbie/register/LineThrift"
+	"github.com/getlove555/register/LineThrift"
 	// "fmt"
 )
 
